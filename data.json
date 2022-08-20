@@ -1,0 +1,39 @@
+{
+    "companyName": "Zep",
+    "companyYoutubeLink": "https://www.youtube.com/watch?v=xuMRsO0jHNA",
+    "companyDescription": "Zep\n\nA Light, But Not Light Metaverse\n\nMaximum Web-Based Simultaneous Acess\n\nThe High Degree of Freedom to Create Anything\n\n\n\nZEP is being developed with Naver Z, a global metaverse company that services Zepeto,\nand SUPERCAT, well known for their RPG development skills and unique pixel art.\n\n\n\n\n\n\n\n\n\n",
+    "product": {
+        "promotionVideo": "https://www.youtube.com/watch?v=Y0qwEHXwKoY",
+        "description": "\n\nZep\n\n\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur eligendi repellat sed iusto eveniet veniam beatae, accusantium libero porro est.\n\n\n\n\n\n\n\n",
+        "images": [
+            "Zep%207405a6ddd88b47adb709dceeda7f4fe0/search.pstatic-1.jpg",
+            "Zep%207405a6ddd88b47adb709dceeda7f4fe0/search.pstatic-2.jpg"
+        ]
+    },
+    "recruitment": {
+        "jds": [
+            {
+                "title": "Backend Developer",
+                "link": "https://recruit.naverz-corp.com/naverz/recruitMain"
+            },
+            {
+                "title": "PM",
+                "link": "https://recruit.naverz-corp.com/naverz/recruitMain"
+            },
+            {
+                "title": "Product Desinger",
+                "link": "https://recruit.naverz-corp.com/naverz/recruitMain"
+            }
+        ],
+        "isRecruimentOngoing": true,
+        "managerContact": "01042528754"
+    },
+    "images": [
+        "Zep%207405a6ddd88b47adb709dceeda7f4fe0/Company_Introduction_220714-25.png",
+        "Zep%207405a6ddd88b47adb709dceeda7f4fe0/Company_Introduction_220714-26.png",
+        "Zep%207405a6ddd88b47adb709dceeda7f4fe0/Company_Introduction_220714-27.png",
+        "Zep%207405a6ddd88b47adb709dceeda7f4fe0/Company_Introduction_220714-28.png"
+    ],
+    "logoPath": "Zep%207405a6ddd88b47adb709dceeda7f4fe0/search.pstatic-2.jpg",
+    "youtubeThumbnailPath": "Zep%207405a6ddd88b47adb709dceeda7f4fe0/thumbnail.png"
+}
